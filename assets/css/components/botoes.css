@@ -1,0 +1,27 @@
+.botao {
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px #ffcb473d;
+    color: var(--branco);
+    display: flex;
+    font-family: inherit;
+    font-weight: 700;
+    justify-content: center;
+    margin-right: 10px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    width: 70%;
+
+}
+
+.botao-principal {
+    background-color: var(--azul);
+    border: none;
+    text-align: center;
+}
+
+.botao-sec {
+    background-color: var(--amarelo);
+    border: 1px solid white;
+}

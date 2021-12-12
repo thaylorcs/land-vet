@@ -1,0 +1,12 @@
+@import url(_reset.css);
+@import url(_variaveis.css);
+@import url(_page.css);
+
+body {
+    font-family: inherit;
+    font-size: var(--tamanho-corpo);
+}
+
+.container {
+    margin: 0 3%;
+}
